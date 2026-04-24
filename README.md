@@ -1,7 +1,7 @@
   <div align="center">
   <img src="https://i.pinimg.com/originals/0b/f2/ba/0bf2baebc370e83b26b1e5ef6a558f07.gif" alt="Coding" width="200" />
   <h1>I'm Rushikesh Hirve 👨‍💻</h1>
-  <p><strong>Software Engineer | MERN Stack Specialist | Secure System Architect</strong></p>
+  <p><strong>Software Engineer | MERN Stack Specialist | Love to Build 🧡</strong></p>
 
   <a href="mailto:rushikeshhirve09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rushikesh-hirve/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
