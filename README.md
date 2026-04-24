@@ -4,7 +4,7 @@
   <p><strong>Software Engineer | MERN Stack Specialist | Love to Build 🧡</strong></p>
 
   <a href="mailto:rushikeshhirve09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rushikesh-hirve/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rushikeshhirve09/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/rushikeshhirve09"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=rushikeshhirve&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
 </div>
