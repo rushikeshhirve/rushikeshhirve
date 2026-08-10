@@ -14,7 +14,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line" width="100%" />
 
   ## ⚡ Quick Bit
-  **🚀 🚀 Full-stack engineer always exploring new technology; I love to play games and sometimes code too! Turning complex logic into scalable microservices and secure system architectures.**
+  **🚀 🚀 Full-Stack Engineer passionate about building scalable, secure, and high-performance applications. Experienced in designing robust system architectures, developing microservices, and turning complex business requirements into reliable software solutions. Always exploring new technologies and improving engineering practices.**
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line" width="100%" />
 </div>
